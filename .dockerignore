@@ -1,0 +1,16 @@
+# Carpetas que no deben ir al build
+target/
+.idea/
+.mvn/
+.DS_Store
+
+# Archivos temporales
+*.iml
+*.log
+
+# Repositorio git
+.git/
+.gitignore
+
+# Archivos innecesarios
+README.md
